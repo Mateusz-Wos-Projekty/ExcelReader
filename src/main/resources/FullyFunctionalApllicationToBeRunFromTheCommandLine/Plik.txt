@@ -1,0 +1,48 @@
+{
+"inputFile":"C:\\Users\\UV278YY\\Desktop\\ExcelReaderCorrectGithub\\src\\main\\resources\\FullyFunctionalApllicationToBeRunFromTheCommandLine\\ChargedHoursNew.xlsb",
+"filteringList":
+[
+{
+"columnName":"GPN",
+"filterValue":"IN010100003",
+"filterOption":"EQUALS"
+},
+{
+"columnName":"GPN",
+"filterValue":"IN010100003",
+"filterOption":"NOT_EQUALS"
+},
+{
+"columnName":"Person Segment",
+"filterValue":"FS",
+"filterOption":"CONTAINS"
+},
+{
+"columnName":"Person Segment",
+"filterValue":"FS",
+"filterOption":"NOT_CONTAINS"
+},
+{
+"columnName":"Numbers",
+"filterValue":"100",
+"filterOption":"LESS"
+},
+{
+"columnName":"Numbers",
+"filterValue":"100",
+"filterOption":"GREATER"
+}
+],
+"replacements":
+[
+{
+"columnName":"Employee Category",
+"before":"GDS",
+"after":"CS"
+}
+],
+"outputFile":
+{
+"newFileName":"C:\\Users\\UV278YY\\Desktop\\ExcelReaderCorrectGithub\\src\\main\\resources\\FullyFunctionalApllicationToBeRunFromTheCommandLine\\ChargedHoursNew.xlsx",
+"columns": ["Firstname", "Lastname"]
+}}
