@@ -8,7 +8,7 @@ The project's primary purpose is to read data from a large Excel file, modify it
 
 To run the application, you have two options:
 
-1. After downloading the "Demo_Number_2" file, refer to the "Excel Reader Tutorial" located in the "Excel Reader Tutorial" data folder (src/main/resources/Excel Reader Tutorial/Excel Reader Tutorial.docx).
+1. After downloading the "Demo_Number_2" file, refer to the "Excel Reader Tutorial" located in the "Excel Reader Tutorial" data folder (**src/main/resources/Excel Reader Tutorial/Excel Reader Tutorial.docx**).
 
    Follow the instructions to run the application via the terminal.
 
