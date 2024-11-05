@@ -20,7 +20,7 @@ To run the application, you have two options:
 
    To get acquainted with the application, first, read the "Excel Reader Tutorial," which can be found in:
 
-   "src/main/resources/Excel Reader Tutorial/Excel Reader Tutorial.docx" within the codebase.
+   "**src/main/resources/Excel Reader Tutorial/Excel Reader Tutorial.docx**" within the codebase.
 
 2. **Starting the Application from the Command Line**
 
