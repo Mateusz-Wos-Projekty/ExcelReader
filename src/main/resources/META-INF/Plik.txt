@@ -5,7 +5,7 @@
 {
 "columnName":"GPN",
 "filterValue":"IN010100003",
-"filterOption":"MAX"
+"filterOption":"EQUALS"
 },
 {
 "columnName":"GPN",
