@@ -1,5 +1,5 @@
 {
-"inputFile":"C:\\Users\\UV278YY\\Desktop\\ExcelReaderCorrectGithub\\src\\main\\resources\\FullyFunctionalApllicationToBeRunFromTheCommandLine\\ChargedHoursNew.xlsb",
+"inputFile":"C:\\FullyFunctionalApllicationToBeRunFromTheCommandLine\\ChargedHoursNew.xlsb",
 "filteringList":
 [
 {
@@ -43,6 +43,6 @@
 ],
 "outputFile":
 {
-"newFileName":"C:\\Users\\UV278YY\\Desktop\\ExcelReaderCorrectGithub\\src\\main\\resources\\FullyFunctionalApllicationToBeRunFromTheCommandLine\\ChargedHoursNew.xlsx",
+"newFileName":"C:\\FullyFunctionalApllicationToBeRunFromTheCommandLine\\ChargedHoursNew.xlsx",
 "columns": ["Firstname", "Lastname"]
 }}

@@ -41,9 +41,9 @@ To run the application, you have two options:
 -Create a new branch from the master branch with a name of your choice.
 
 
--In IntelliJ (or any other IDE you prefer), navigate to the main method Main (it is located in the top-most bar). 
+-In IntelliJ (or any other IDE you prefer), navigate to: (Current File v) (it is located in the top-most bar). 
 
-Once you click on the name of the method: Main you then need to go to -> Edit Configurations... and create a new configuration. 
+Once you click on CurrentFile v, you then need to go to -> Edit Configurations... and create a new configuration. 
 
 Click the "plus" button to "Add a New Configuration."
 
